@@ -1,0 +1,9 @@
+C:\SistemaEscolar\Model\bin\Debug\Model.dll
+C:\SistemaEscolar\Model\bin\Debug\Model.pdb
+C:\SistemaEscolar\Model\bin\Debug\MySql.Data.dll
+C:\SistemaEscolar\Model\bin\Debug\MySql.Data.xml
+C:\SistemaEscolar\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\SistemaEscolar\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\SistemaEscolar\Model\obj\Debug\Model.csproj.CopyComplete
+C:\SistemaEscolar\Model\obj\Debug\Model.dll
+C:\SistemaEscolar\Model\obj\Debug\Model.pdb
